@@ -2,7 +2,7 @@
 
 Welcome to the Offensive Security CTF Project! This repository contains concise write-ups of Capture The Flag (CTF) challenges conducted on a hypothetical company, Rekall Corporation. The challenges focus on three main areas: Web Security, Linux Servers, and Windows Servers.
 
-## Web Application Security CTF
+## [Web Application Security CTF] (https://github.com/Lodoelama/Web-Application-CTF/blob/main/README.md)
 
 In this challenge, we identified and exploited vulnerabilities in Rekall's web application. These included Cross-Site Scripting (XSS), SQL Injection, and Local File Inclusion. One example involved exploiting an advanced XSS vulnerability on the Memory-Planner.php webpage by using a split script tag, allowing the execution of arbitrary JavaScript code in the user's browser.
 
