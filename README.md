@@ -16,6 +16,4 @@ In this challenge, we exploited a variety of vulnerabilities on Windows servers.
 
 These write-ups provide a brief overview of the CTF challenges. For a more detailed walkthrough, please refer to the *[full report](https://docs.google.com/document/d/1RoF1Y571b9bzMwUkaUMYnkZdCBBbZWLw7XP_xnJ5ZFQ/edit#heading=h.664pxxk2abue).* This project serves as a valuable resource for understanding potential security risks and how to address them.
 
-# Feedback 
-"Hey Lodoe, Really nice job on this Project 2! I know it's a really long one and even though you guys had the solution I wanted to see the screenshots and know that you went in and did the work. You might have one of the best submissions in class so really good job! Thanks, Milind"
-- Adari, Milind 
+
